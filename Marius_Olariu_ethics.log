@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  1 DEC 2018 04:59
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  2 DEC 2018 05:42
  restricted system commands enabled.
 **Marius_Olariu_ethics.tex
 (./Marius_Olariu_ethics.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.120 seconds
+luaotfload | main : initialization completed in 0.121 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -106,20 +106,20 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 (./Marius_Olariu_ethics.aux)
 \openout1 = Marius_Olariu_ethics.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -159,15 +159,15 @@ LaTeX Font Info:    ... okay on input line 16.
 /fonts/otl/lmroman17-regular.luc)(load luc: /Users/macbookpro/Library/texlive/20
 18/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
+(Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+(Font)              <6> on input line 22.
 (load luc: /Users/macbookpro/Library/texlive/2018/texmf-var/luatex-cache/generic
 /fonts/otl/lmroman12-bold.luc)(load luc: /Users/macbookpro/Library/texlive/2018/
 texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
@@ -176,17 +176,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}](load luc
 : /Users/macbookpro/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/ot
 l/lmroman10-bolditalic.luc)
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
@@ -195,7 +195,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[2] [3] (./Marius_Olariu_ethics.aux))
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--106
+
+ []
+
+[3] [4] (./Marius_Olariu_ethics.aux))
 
 Here is how much of LuaTeX's memory you used:
  957 strings out of 494413
@@ -203,7 +223,7 @@ Here is how much of LuaTeX's memory you used:
  365 words of node memory still in use:
    2 hlist, 1 vlist, 1 rule, 2 glue, 3 attribute, 47 glue_spec, 3 attribute_list
 , 1 write nodes
-   avail lists: 2:92,3:41,4:33,5:309,6:10,7:4414,8:4,9:65,10:19,11:328
+   avail lists: 2:83,3:59,4:35,5:329,6:14,7:4821,8:4,9:70,10:21,11:354
  5144 multiletter control sequences out of 65536+600000
  31 fonts using 2135199 bytes
  24i,6n,32p,1169b,207s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -214,10 +234,10 @@ egular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-bold.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-regular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmrom
 an17-regular.otf>
-Output written on Marius_Olariu_ethics.pdf (3 pages, 40738 bytes).
+Output written on Marius_Olariu_ethics.pdf (4 pages, 45073 bytes).
 
-PDF statistics: 56 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+PDF statistics: 59 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
