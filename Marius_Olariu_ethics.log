@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  2 DEC 2018 05:42
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  3 DEC 2018 05:11
  restricted system commands enabled.
 **Marius_Olariu_ethics.tex
 (./Marius_Olariu_ethics.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.121 seconds
+luaotfload | main : initialization completed in 0.123 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -181,52 +181,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--106
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
  []
 
-[3] [4] (./Marius_Olariu_ethics.aux))
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 108.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--126
+
+ []
+
+[4] [5] (./Marius_Olariu_ethics.aux))
 
 Here is how much of LuaTeX's memory you used:
- 957 strings out of 494413
+ 965 strings out of 494413
  100000,89155 words of node,token memory allocated
  365 words of node memory still in use:
    2 hlist, 1 vlist, 1 rule, 2 glue, 3 attribute, 47 glue_spec, 3 attribute_list
 , 1 write nodes
-   avail lists: 2:83,3:59,4:35,5:329,6:14,7:4821,8:4,9:70,10:21,11:354
- 5144 multiletter control sequences out of 65536+600000
- 31 fonts using 2135199 bytes
- 24i,6n,32p,1169b,207s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 2:83,3:58,4:42,5:342,6:9,7:5563,8:4,9:73,10:23,11:425
+ 5148 multiletter control sequences out of 65536+600000
+ 34 fonts using 2321911 bytes
+ 24i,6n,32p,1176b,207s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditali
 c.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-ita
 lic.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-r
@@ -234,10 +251,10 @@ egular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-bold.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
 2-regular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmrom
 an17-regular.otf>
-Output written on Marius_Olariu_ethics.pdf (4 pages, 45073 bytes).
+Output written on Marius_Olariu_ethics.pdf (5 pages, 50356 bytes).
 
-PDF statistics: 59 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
